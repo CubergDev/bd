@@ -6846,11 +6846,6 @@ body:active .container-18GwIk:not(:active) {
 /* USER POPOUT -> ROLES */
 
 
-body:active .userPopout-2j1gM4:not(:active) {
-  opacity: 0;
-  transition: 150ms ease all;
-}
-
 /*
  *
  *  SERVER FOLDERS
